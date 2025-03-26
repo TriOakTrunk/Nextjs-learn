@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
 .shape {
     height: 0;
     width: 0;
@@ -8,5 +8,5 @@
 }
 
 .body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lusitana', sans-serif;
 }
