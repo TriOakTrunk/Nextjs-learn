@@ -5,6 +5,7 @@
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
 }
-body {
+
+.body {
     font-family: 'Inter', sans-serif;
 }
