@@ -117,3 +117,7 @@ export async function authenticate(
     throw error;
   }
 }
+
+export async function createBlog() {
+  console.log("createBlogが実行されました");
+}
